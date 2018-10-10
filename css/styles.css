@@ -1,7 +1,10 @@
 .sidebar {
   width: 30%;
   float: right;
+  margin-right: 30px;
   border: 1px solid #000;
+  padding-left: 30px;
+  background-color: pink;
 }
 
 .container {
@@ -11,7 +14,7 @@
 }
 
 .articles {
-  width: 30%;
+  width: 40%;
   float: left;
   border: 1px solid #000;
 }
